@@ -9,3 +9,11 @@ Es para jaquiar cosis
 | Forensically          |Modificacion de capas de color en jpgs     |https://29a.ch/photo-forensics/#forensic-magnifier |
 | Sonic/visualiser      |Analisis de capas para archivos de audio   |https://www.sonicvisualiser.org/    |
 | Secsy                 |Varios tipos de analis para detectar stego |https://www.secsy.net/   |
+
+## Herramientas Mifare
+
+|Tool                   |Description       |Link     |
+|-----------------------|------------------|---------------|
+|   Mfoc    |   Nested Attack       |   https://github.com/nfc-tools/mfoc   |
+|   Mfcuk   |   Dark Side Attack    |   https://github.com/nfc-tools/mfcuk  |
+
