@@ -27,3 +27,10 @@ Es para jaquiar cosis
 | Mfoc      | Nested Attack      |   https://github.com/nfc-tools/mfoc   |
 | Mfcuk     | Dark Side Attack   |   https://github.com/nfc-tools/mfcuk  |
 
+
+## Reversing
+|Tool       |Description                     |Link     |
+|-----------|--------------------------------|---------------|
+| Ghidra    | NSA reverse engineering Tool   |   https://ghidra-sre.org/   |
+| Mfcuk     | Dark Side Attack               |   https://rada.re/r/  |
+| Ida Pro   | Pirate Ida Pro Better in VM xD |
