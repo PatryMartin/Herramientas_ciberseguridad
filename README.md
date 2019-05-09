@@ -13,6 +13,6 @@ Es para jaquiar cosis
 
 |Tool                   |Description       |Link     |
 |-----------------------|------------------|---------------|
-|   Mfoc    |   nested Attack       |   https://github.com/nfc-tools/mfoc   |
+|   Mfoc    |   Nested Attack       |   https://github.com/nfc-tools/mfoc   |
 |   Mfcuk   |   Dark Side Attack    |   https://github.com/nfc-tools/mfcuk  |
 
