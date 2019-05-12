@@ -22,8 +22,27 @@ Es para jaquiar cosis
 
 ## Herramientas Mifare
 
-|Tool       |Description         |Link     |
-|-----------|--------------------|---------------|
-| Mfoc      | Nested Attack      |   https://github.com/nfc-tools/mfoc   |
-| Mfcuk     | Dark Side Attack   |   https://github.com/nfc-tools/mfcuk  |
+|Tool       |Description                            |Link     |
+|-----------|---------------------------------------|---------------|
+| Mfoc      | Nested Attack                         |   https://github.com/nfc-tools/mfoc   |
+| Mfcuk     | Dark Side Attack                      |   https://github.com/nfc-tools/mfcuk  |
+| Mfdread   | dumps parser in human readable format |   https://github.com/zhovner/mfdread  |
+
+
+## Reversing
+|Tool       |Description                     |Link     |
+|-----------|--------------------------------|---------------|
+| Ghidra    | NSA reverse engineering Tool   |   https://ghidra-sre.org/   |
+| Mfcuk     | Dark Side Attack               |   https://rada.re/r/  |
+| Ida Pro   | Pirate Ida Pro Better xD       |
+
+
+## Network And Web
+|Tool        |Description                               |Link     |
+|------------|------------------------------------------|---------------|
+| Nmap       | Free network scanner                     | https://nmap.org/
+| Wireshark  | Free packet analyzer                     | https://www.wireshark.org/
+| Owasp Zap  | Free Proxy                               | https://github.com/zaproxy/zaproxy/wiki/Downloads
+| Burp Suite | payment Proxy, community versión sucks   | https://portswigger.net/burp
+
 
