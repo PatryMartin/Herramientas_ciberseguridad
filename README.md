@@ -3,12 +3,17 @@ Es para jaquiar cosis
 
 
 ## Common
-|Tool                   |Description                    |Link     |
-|-----------------------|-------------------------------|---------------|
-| Hexedit               | Hexadecimal editor online     |https://hexed.it/   |
-| HxD                   | Hexadecimal editor portable   |https://mh-nexus.de/en/hxd/|
-| Hexedit               | Linux console Hex Editor      |sudo apt install hexedit
+|Tool                   |Description                                                |Link                                           |
+|-----------------------|-----------------------------------------------------------|-----------------------------------------------|
+| Hexedit               | Hexadecimal editor online / Linux console Hex Editor      |https://hexed.it/  / sudo apt install hexedit  |
+| HxD                   | Hexadecimal editor portable                               |https://mh-nexus.de/en/hxd/                    |
+| dd                    |                                                           |linux command                                  |
 
+
+#Analysis
+|Tool                   |Description               |Link                    |
+|-----------------------|--------------------------|------------------------|
+| Secsy                 |	Varios tipos de analis |https://www.secsy.net/  |
 
 
 ## Steganografia
@@ -17,14 +22,14 @@ Es para jaquiar cosis
 |-----------------------|------------------|---------------|
 | Stego Tool Kit        |Recopilacion de herramientas en Docker     |https://github.com/DominicBreuker/stego-toolkit |
 | Forensically          |Modificacion de capas de color en jpgs     |https://29a.ch/photo-forensics/#forensic-magnifier |
-| Sonic/visualiser      |Analisis de capas para archivos de audio   |https://www.sonicvisualiser.org/    |
-| Secsy                 |Varios tipos de analis para detectar stego |https://www.secsy.net/   |
+| SonicVisualiser       |Analisis de capas para archivos de audio   |https://www.sonicvisualiser.org/    |
 | Stegsolve             |                                           |https://github.com/zardus/ctf-tools/blob/master/stegsolve/install|
 | BinWalk               |                                           |sudo apt install binwalk
 | Exiftool              |                                           |
 | StegHide              |                                           |sudo apt intall steghide
 | StegoSuite            | steghide is better                        |sudo apt install stegosuite
 | StegOnline            |                                           |https://georgeom.net/StegOnline/upload
+|http://metapicz.com/#landing
 
 
 ## Crypto
