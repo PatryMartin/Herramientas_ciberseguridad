@@ -1,6 +1,16 @@
 # Herramientas_ciberseguridad
 Es para jaquiar cosis
 
+
+## Common
+|Tool                   |Description                    |Link     |
+|-----------------------|-------------------------------|---------------|
+| Hexedit               | Hexadecimal editor online     |https://hexed.it/   |
+| HxD                   | Hexadecimal editor portable   |https://mh-nexus.de/en/hxd/|
+| Hexedit               | Linux console Hex Editor      |sudo apt install hexedit
+
+
+
 ## Steganografia
 
 |Tool                   |Description       |Link     |
@@ -9,6 +19,13 @@ Es para jaquiar cosis
 | Forensically          |Modificacion de capas de color en jpgs     |https://29a.ch/photo-forensics/#forensic-magnifier |
 | Sonic/visualiser      |Analisis de capas para archivos de audio   |https://www.sonicvisualiser.org/    |
 | Secsy                 |Varios tipos de analis para detectar stego |https://www.secsy.net/   |
+| Stegsolve             |                                           |https://github.com/zardus/ctf-tools/blob/master/stegsolve/install|
+| BinWalk               |                                           |sudo apt install binwalk
+| Exiftool              |                                           |
+| StegHide              |                                           |sudo apt intall steghide
+| StegoSuite            | steghide is better                        |sudo apt install stegosuite
+| StegOnline            |                                           |https://georgeom.net/StegOnline/upload
+
 
 ## Crypto
 
@@ -18,7 +35,7 @@ Es para jaquiar cosis
 | Hash Analyzer     | Analiza el tipo de hash que tienes entre manos                |https://www.tunnelsup.com/hash-analyzer/   |
 | DarkByte          | Convierte simultaneamente txt, binario, hexadecimal, base...  |https://conv.darkbyte.ru/   |
 | CrackStation      | Descifra hashes sin pass                                      |https://crackstation.net/   |
-| Hexedit           | Muestra el en Hexadecimal cualquier tipo de archivo           |https://hexed.it/   |
+
 
 ## Herramientas Mifare
 
