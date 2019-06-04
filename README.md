@@ -70,3 +70,7 @@ Es para jaquiar cosis
 | Burp Suite | payment Proxy, community versión sucks   | https://portswigger.net/burp                          |
 
 
+## Hardware
+|Tool                           |Description                                                                |Link                                                       |
+|-------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|
+| The Hacker's Hardware Toolkit | The best hacker's gadgets for Red Team pentesters and security researchers|https://github.com/yadox666/The-Hackers-Hardware-Toolkit   |
