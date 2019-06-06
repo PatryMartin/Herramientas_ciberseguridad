@@ -38,10 +38,11 @@ Es para jaquiar cosis
 
 |Tool               |Description                                                    |Link                                       |
 |-------------------|---------------------------------------------------------------|-------------------------------------------|
-| Cryptii           | Cifrar/Descifrar utilizando diferentes metodos                |https://cryptii.com/                       |
-| Hash Analyzer     | Analiza el tipo de hash que tienes entre manos                |https://www.tunnelsup.com/hash-analyzer/   |
-| DarkByte          | Convierte simultaneamente txt, binario, hexadecimal, base...  |https://conv.darkbyte.ru/                  |
-| CrackStation      | Descifra hashes sin pass                                      |https://crackstation.net/                  |
+| Cryptii           | Cifrar/Descifrar utilizando diferentes metodos                | https://cryptii.com/                      |
+| Hash Analyzer     | Analiza el tipo de hash que tienes entre manos                | https://www.tunnelsup.com/hash-analyzer/  |
+| DarkByte          | Convierte simultaneamente txt, binario, hexadecimal, base...  | https://conv.darkbyte.ru/                 |
+| CrackStation      | Descifra hashes sin pass                                      | https://crackstation.net/                 |
+| Server Test       | Entropy and Randomnes check                                   | https://servertest.online/entropy         |
 
 
 ## Herramientas Mifare
@@ -73,4 +74,4 @@ Es para jaquiar cosis
 ## Hardware
 |Tool                           |Description                                                                |Link                                                       |
 |-------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|
-| The Hacker's Hardware Toolkit | The best hacker's gadgets for Red Team pentesters and security researchers|https://github.com/yadox666/The-Hackers-Hardware-Toolkit   |
+| The Hacker's Hardware Toolkit | The best hacker's gadgets for Red Team pentesters and security researchers| https://github.com/yadox666/The-Hackers-Hardware-Toolkit  |
