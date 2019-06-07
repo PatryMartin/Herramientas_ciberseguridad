@@ -5,33 +5,38 @@ Es para jaquiar cosis
 ## Common
 |Tool                   |Description                                                |Link                                                               |
 |-----------------------|-----------------------------------------------------------|-------------------------------------------------------------------|
-| Hexedit               | Hexadecimal editor online / Linux console Hex Editor      |https://hexed.it/  / sudo apt install hexedit                      |
-| HxD                   | Hexadecimal editor portable                               |https://mh-nexus.de/en/hxd/                                        |
-| dd                    |                                                           |linux command                                                      |
-| Files Signatures      | fund magic numbers                                        |https://www.filesignatures.net/index.php?search=FFD8FFE0&mode=SIG  |
+| Hexedit               | Hexadecimal editor online / Linux console Hex Editor      | https://hexed.it/  / sudo apt install hexedit                     |
+| HxD                   | Hexadecimal editor portable                               | https://mh-nexus.de/en/hxd/                                       |
+| dd                    |                                                           | linux command                                                     |
+| Files Signatures      | fund magic numbers                                        | https://www.filesignatures.net/index.php?search=FFD8FFE0&mode=SIG |
 
 
 ## Analysis
 |Tool                   |Description                |Link                    |
 |-----------------------|---------------------------|------------------------|
-| Secsy                 | Varios tipos de analis    |https://www.secsy.net/  |
+| Secsy                 | Varios tipos de analis    | https://www.secsy.net/ |
 
 
 
 ## Steganografia
 
-|Tool                   |Description                                |Link                                                               |
-|-----------------------|-------------------------------------------|-------------------------------------------------------------------|
-| Stego Tool Kit        | Recopilacion de herramientas en Docker    |https://github.com/DominicBreuker/stego-toolkit                    |
-| Forensically          | Modificacion de capas de color en jpgs    |https://29a.ch/photo-forensics/#forensic-magnifier                 |
-| SonicVisualiser       | Analisis de capas para archivos de audio  |https://www.sonicvisualiser.org/                                   |
-| Stegsolve             |                                           |https://github.com/zardus/ctf-tools/blob/master/stegsolve/install  |
-| BinWalk               |                                           |sudo apt install binwalk                                           |
-| Exiftool              |                                           |                                                                   |
-| StegHide              |                                           |sudo apt intall steghide                                           |
-| StegoSuite            | Steghide is better                        |sudo apt install stegosuite                                        |
-| StegOnline            |                                           |https://georgeom.net/StegOnline/upload                             |
-| Metapicz              | Online Metadata                           |http://metapicz.com/#landing                                       |
+|Tool                   |Description                                |Link                                                                   |
+|-----------------------|-------------------------------------------|-----------------------------------------------------------------------|
+| Stego Tool Kit        | Recopilacion de herramientas en Docker    | https://github.com/DominicBreuker/stego-toolkit                       |
+| Forensically          | Modificacion de capas de color en jpgs    | https://29a.ch/photo-forensics/#forensic-magnifier                    |
+| SonicVisualiser       | Analisis de capas para archivos de audio  | https://www.sonicvisualiser.org/                                      |
+| Stegsolve             |                                           | https://github.com/zardus/ctf-tools/blob/master/stegsolve/install     |
+| BinWalk               |                                           | sudo apt install binwalk                                              |
+| Exiftool              |                                           |                                                                       |
+| StegHide              |                                           | sudo apt intall steghide                                              |
+| StegoSuite            | Steghide is better                        | sudo apt install stegosuite                                           |
+| StegOnline            |                                           | https://georgeom.net/StegOnline/upload                                |  
+| Metapicz              | Online Metadata                           | http://metapicz.com/#landing                                          |
+| DTMF Tones            | you find DTMF tones within audio clips    | http://dialabc.com/sound/detect/index.html                            |
+| QR Decode             |                                           | http://qrlogo.kaarposoft.dk/qrdecode.html                             |
+| Gif frame Extractor   |                                           | https://ezgif.com/split                                               |
+| Extract PDF           |                                           | https://www.extractpdf.com/                                           |
+| futureboy             | Steghide online                           | https://futureboy.us/stegano/decinput.html                            |
 
 
 ## Crypto
