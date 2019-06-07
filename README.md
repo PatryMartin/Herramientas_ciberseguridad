@@ -3,12 +3,12 @@ Es para jaquiar cosis
 
 
 ## Common
-|Tool                   |Description                                                |Link                                                               |
-|-----------------------|-----------------------------------------------------------|-------------------------------------------------------------------|
-| Hexedit               | Hexadecimal editor online / Linux console Hex Editor      |https://hexed.it/  / sudo apt install hexedit                      |
-| HxD                   | Hexadecimal editor portable                               |https://mh-nexus.de/en/hxd/                                        |
-| dd                    |                                                           |linux command                                                      |
-| Files Signatures      | fund magic numbers                                        |https://www.filesignatures.net/index.php?search=FFD8FFE0&mode=SIG  |
+|Tool                   |Description                                              |Link                                          |
+|-----------------------|---------------------------------------------------------|----------------------------------------------|
+| Hexedit               | Hexadecimal editor online / Linux console Hex Editor    |https://hexed.it/  / sudo apt install hexedit |
+| HxD                   | Hexadecimal editor portable                             |https://mh-nexus.de/en/hxd/                   |  
+| dd                    |                                                         |linux command                                 |
+| Files Signatures      | fund magic numbers                                      |https://www.filesignatures.net/index.php?search=FFD8FFE0&mode=SIG  |
 
 
 ## Analysis
@@ -25,12 +25,12 @@ Es para jaquiar cosis
 | Stego Tool Kit        | Recopilacion de herramientas en Docker    |https://github.com/DominicBreuker/stego-toolkit                    |
 | Forensically          | Modificacion de capas de color en jpgs    |https://29a.ch/photo-forensics/#forensic-magnifier                 |
 | SonicVisualiser       | Analisis de capas para archivos de audio  |https://www.sonicvisualiser.org/                                   |
-| Stegsolve             |                                           |https://github.com/zardus/ctf-tools/blob/master/stegsolve/install  |
-| BinWalk               |                                           |sudo apt install binwalk                                           |
-| Exiftool              |                                           |                                                                   |
-| StegHide              |                                           |sudo apt intall steghide                                           |
+| Stegsolve             | Herramienta de deteccion de stego         |https://github.com/zardus/ctf-tools/blob/master/stegsolve/install  |
+| BinWalk               | Analisis de archivos embebidos            |sudo apt install binwalk                                           |
+| Exiftool              | Read Metadata                             |sudo apt install exiftool                                          |
+| StegHide              | Oculta y extrae archivos                  |sudo apt intall steghide                                           |
 | StegoSuite            | Steghide is better                        |sudo apt install stegosuite                                        |
-| StegOnline            |                                           |https://georgeom.net/StegOnline/upload                             |
+| StegOnline            | Ns/Nc                                     |https://georgeom.net/StegOnline/upload                             |
 | Metapicz              | Online Metadata                           |http://metapicz.com/#landing                                       |
 
 
