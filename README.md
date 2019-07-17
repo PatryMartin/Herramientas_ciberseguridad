@@ -81,5 +81,3 @@ Es para jaquiar cosis
 | The Hacker's Hardware Toolkit | The best hacker's gadgets for Red Team pentesters and security researchers| https://github.com/yadox666/The-Hackers-Hardware-Toolkit  |
 
 
-
-Ya no vale para nada porque me abandona y no vamos hacer mas ctf
